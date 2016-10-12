@@ -9,7 +9,7 @@
  * For other themes, change $codeBackground accordingly.
  *
  */
-@import 'https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Ubuntu';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Ubuntu|Trirong';
 
 /*********************************************
  * GLOBAL STYLES
@@ -53,6 +53,7 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
+             font-family: Trirong, serif;
   font-size: 3.77em; }
 
 .reveal h2 {
